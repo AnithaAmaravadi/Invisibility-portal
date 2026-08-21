@@ -1,0 +1,4 @@
+echo "venv/" > .gitignore
+echo "hand_landmarker.task" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
