@@ -71,7 +71,7 @@ git clone https://github.com/AnithaAmaravadi/Invisibility-portal.git
 cd Invisibility-portal
 
 # 2. Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt  
 
 # 3. Run the application
 python invisibility_portal.py
